@@ -1,3 +1,4 @@
 - http library to fetch data from API
 - async & .then()
 - stream for periodical event
+- async generator & methods
